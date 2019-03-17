@@ -1,0 +1,4 @@
+int a = 5, b = 2;
+double c = 5.0, d;
+d = c + a / b;
+d = a + c / b;

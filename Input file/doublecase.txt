@@ -1,0 +1,4 @@
+int a = 3;
+double b = 5.8;
+double c;
+c = a + b;
